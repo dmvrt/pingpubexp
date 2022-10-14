@@ -1,19 +1,18 @@
 {
-    "chain_name": "haqq",
-    "coingecko": "",
-    "api": ["https://rest.cosmos.testedge2.haqq.network/"],
-    "rpc": ["https://rpc.tm.testedge2.haqq.network/"],
-    "snapshot_provider": "",
-    "sdk_version": "0.45.3",
-    "coin_type": "60",
-    "min_tx_fee": "3000000000000000",
-    "addr_prefix": "haqq",
-    "logo": "/logos/haqq.png",
-    "assets": [{
-        "base": "aISLM",
-        "symbol": "ISLM",
-        "exponent": "18",
-        "coingecko_id": "",
-        "logo": "/logos/islm.png"
-    }]
+  "chain_name": "passage",
+  "api": ["https://passage-api.polkachu.com","https://api.passage.nodestake.top"],
+  "rpc": ["https://passage-rpc.polkachu.com:443","https://rpc.passage.nodestake.top"],
+  "snapshot_provider": "",
+  "sdk_version": "0.45.5",
+  "coin_type": "118",
+  "min_tx_fee": "800",
+  "addr_prefix": "pasg",
+  "logo": "/logos/passage.png",
+  "assets": [
+    {
+      "base": "upasg",
+      "symbol": "PASG",
+      "exponent": "6"
+    }
+  ]
 }
