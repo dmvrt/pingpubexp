@@ -13,7 +13,7 @@
     </b-link>
 
     <p class="mb-1">
-      dmvrt explorer fot private use and testing
+      dmvrt explorer for private use and testing
     </p>
     <h2 class="mb-3">
       🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
