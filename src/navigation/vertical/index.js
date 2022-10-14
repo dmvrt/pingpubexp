@@ -19,7 +19,7 @@ function processMenu() {
       title: 'blockchains',
       children: blockchains,
       tag: `${blockchains.length}`,
-      icon: 'https://ping.pub/logo.svg',
+      icon: 'https://github.com/dmvrt/pingpubexp/blob/master/public/logo.svg',
     })
   }
   chainMenus.push({ header: 'LINKS' })
